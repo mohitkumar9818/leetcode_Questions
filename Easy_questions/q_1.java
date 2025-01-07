@@ -10,3 +10,17 @@ class Solution {
         return new int[0];
     }
 }
+
+//code in python
+
+// def twoSum(nums, target):
+//     # Create a dictionary to store the index of visited numbers
+//     seen = {}
+//     for i, num in enumerate(nums):
+//         # Calculate the complement needed to reach the target
+//         complement = target - num
+//         # Check if the complement is already in the dictionary
+//         if complement in seen:
+//             return [seen[complement], i]
+//         # Store the number and its index in the dictionary
+//         seen[num] = i
