@@ -11,7 +11,6 @@ class Solution {
     }
 }
 //code in python
-
 // def twoSum(nums, target):
 //     
 //     seen = {}
