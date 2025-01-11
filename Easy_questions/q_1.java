@@ -10,6 +10,8 @@ class Solution {
         return new int[0];
     }
 }
+
+
 //code in python
 // def twoSum(nums, target):
 //     
